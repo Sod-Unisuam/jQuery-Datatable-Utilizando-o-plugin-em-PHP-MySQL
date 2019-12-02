@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css?family=MedievalSharp&display=swap');
+
+body{
+    background-color:#1E90FF;
+    padding-bottom: 5em;
+    color: white;
+    } 
+
+h3{ 
+  color: #fff; 
+  font-family: 'Helvetica Neue', sans-serif; 
+  font-size: 40px; 
+  font-weight: bold; 
+  letter-spacing: -1px; 
+  line-height: 1; 
+  text-align: center; 
+}
+
+tr{
+	background-color: #DFBF84;
+}
+
+
+label{
+	color: white;
+}
+
+div{
+	color: white !important;
+}
+
+
+button{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  color: #1E90FF !important;
+  border-radius: 4px !important;
+}
+
+
+.dataTables_paginate a{
+color: white !important;
+background-color: white !important;
+}
+
+table{
+	color: #000000; 
+  font-family: 'Orienta', sans-serif; 
+  font-size: 16px; 
+  line-height: 24px; 
+  margin: 0 0 24px; 
+  text-align: center;
+}
